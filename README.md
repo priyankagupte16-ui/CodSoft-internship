@@ -1,4 +1,4 @@
-# Machine Learning Internship Tasks
+# Data Science Internship Tasks
 
 ## Task 1: Titanic Survival Prediction
 - Built a classification model to predict passenger survival
