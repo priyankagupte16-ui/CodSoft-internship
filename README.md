@@ -4,14 +4,14 @@
 - Built a classification model to predict passenger survival
 - Performed data cleaning and preprocessing
 - Used Logistic Regression
-- Notebook: titanic_prediction.ipynb
+- Notebook: titanicSurvival.ipynb
 
 
 ## Task 2: Movie Rating Prediction
 - Built regression model using Random Forest
 - Evaluated using Mean Absolute Error (MAE)
 - MAE obtained: 1.90
-- Notebook:MovieRatingPrediction.ipynb
+- Notebook:MovieRatingPrediction(5).ipynb
 
 ### View full notebook (for proper rendering)
 GitHub may not render some outputs. View here:
